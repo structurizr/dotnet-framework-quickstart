@@ -1,4 +1,4 @@
-# Structurizr for .NET Framework quickstart
+# Structurizr for .NET quickstart (.NET Framework version)
 
 This is a simple starting point for using [Structurizr for .NET](https://github.com/structurizr/dotnet). To use it:
 
